@@ -1,0 +1,2 @@
+*{background-color:#000;color:#fff;margin:0;padding:0}.calculator{display:flex;flex-direction:column;gap:10px;padding:100px}.inputs>input{border:1px solid #ccc;margin-top:10px;padding:5px}.inputs{margin-bottom:10px}.error{color:red}.ans,.error,.result{margin:20px 0}.result{color:green}.buttons,button{display:flex}button{align-items:center;background-color:#fff;border:none;color:#000;cursor:pointer;font-size:16px;height:30px;justify-content:center;margin-right:20px;padding:10px;width:30px}button:hover{background-color:#ddd}
+/*# sourceMappingURL=main.722580ea.css.map*/
